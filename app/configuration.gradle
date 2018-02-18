@@ -14,4 +14,7 @@ ext {
     espresso_version = '3.0.1'
     rx_android_version = '2.0.1'
     rx_java_version = '2.1.8'
+    retrofit_version = '2.3.0'
+
+    picasso_version = '2.5.2'
 }
