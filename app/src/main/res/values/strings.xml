@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rx Kotlin MVP</string>
+    <string name="repository_name">Repository Name:</string>
+    <string name="repository_description">Repository Description:</string>
+    <string name="last_time_updated">Latest updated:</string>
+    <string name="programming_language">Programming Language:</string>
+    <string name="is_fork">Is fork:\u0020</string>
+    <string name="repository_details">Repository details</string>
+    <string name="repository_owner_details">Repository owner details</string>
+    <string name="no_data_available">No data available</string>
+    <string name="mesg_server_error">Server Error</string>
+
+    <!-- Sort Date -->
+</resources>
